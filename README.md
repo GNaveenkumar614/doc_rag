@@ -101,6 +101,3 @@ Once the script is running, enter your question at the prompt. The assistant wil
 - For best results, choose document chunk sizes that balance context coverage and retrieval accuracy.
 - The example script is intended as a starting point for building a more complete application or service around this RAG flow.
 
-## License
-
-This project is provided as-is for educational and experimental use.
